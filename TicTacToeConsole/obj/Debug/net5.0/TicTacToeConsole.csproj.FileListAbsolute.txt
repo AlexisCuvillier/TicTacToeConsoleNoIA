@@ -1,0 +1,16 @@
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\bin\Debug\net5.0\TicTacToeConsole.exe
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\bin\Debug\net5.0\TicTacToeConsole.deps.json
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\bin\Debug\net5.0\TicTacToeConsole.runtimeconfig.json
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\bin\Debug\net5.0\TicTacToeConsole.runtimeconfig.dev.json
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\bin\Debug\net5.0\TicTacToeConsole.dll
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\bin\Debug\net5.0\ref\TicTacToeConsole.dll
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\bin\Debug\net5.0\TicTacToeConsole.pdb
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.dll
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\obj\Debug\net5.0\ref\TicTacToeConsole.dll
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.pdb
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Documents\Formation\C#\TicTacToeConsole\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.csproj.AssemblyReference.cache
